@@ -1,9 +1,14 @@
-Grove_Flame_Sensor
+Grove Flame Sensor
 --------------------------------
 
-[![Grove_Flame_Sensor](http://www.seeedstudio.com/depot/bmz_cache/2/2286960036d1c007c9dbccfc6e699487.image.200x150.jpg)](http://www.seeedstudio.com/depot/grove-flame-sensor-p-1450.html?cPath=144_222)
+[![Grove Flame Sensor](http://www.seeedstudio.com/depot/images/product/Flame%20Sensor.jpg)](http://www.seeedstudio.com/depot/grove-flame-sensor-p-1450.html?cPath=144_222)
 
-The Grove - Flame Sensor can be used to detect fire source or other light sources of the wavelength in the range of 760nm - 1100 nm. It is based on the YG1006 sensor which is a high speed and high sensitive NPN silicon phototransistor. Due to its black epoxy, the sensor is sensitive to infrared radiation. In fire fighting robot game, the sensor plays a very important role, it can be used as a robot eyes to find the fire source.
+This is an Arduino example for [Grove Flame Sensor](http://www.seeedstudio.com/depot/grove-flame-sensor-p-1450.html?cPath=144_222)
+
+The Grove - Flame Sensor can be used to detect fire source or other light sources of the wavelength in the range of 760nm - 1100 nm.
+It is based on the YG1006 sensor which is a high speed and high sensitive NPN silicon phototransistor.
+Due to its black epoxy, the sensor is sensitive to infrared radiation.
+In fire fighting robot game, the sensor plays a very important role, it can be used as a robot eyes to find the fire source.
 
 ### Usage:
 
